@@ -9,8 +9,6 @@ Designed for **Data Scientists, Data Analysts, Students, and ML Engineers**, thi
 ## 🚀 Live Demo
 
 
-# ✨ Features
-
 ## 📂 Dataset Upload
 
 - Upload CSV datasets
@@ -73,11 +71,6 @@ Automatically detects:
 - GitHub
 - Streamlit Community Cloud
 
-
-
-Data Scientists spend nearly **80% of their time cleaning and preparing datasets** before building Machine Learning models.
-
-Manual data auditing is repetitive, time-consuming, and error-prone.
 
 Dataset Health Analyzer automates this process by providing:
 
