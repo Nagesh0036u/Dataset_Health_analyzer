@@ -97,6 +97,6 @@ This significantly reduces the time required for data preparation.
 
 # 👩‍💻 Author
 
-**Likitha BN**
+**NAGESH R**
 
 BE in Data Science
