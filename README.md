@@ -9,10 +9,6 @@ Designed for **Data Scientists, Data Analysts, Students, and ML Engineers**, thi
 ## 🚀 Live Demo
 
 
-
-## 📸 Application Preview
-
-
 # ✨ Features
 
 ## 📂 Dataset Upload
@@ -99,4 +95,4 @@ This significantly reduces the time required for data preparation.
 
 **NAGESH R**
 
-BE in Data Science
+BE in AIML
